@@ -58,7 +58,7 @@
 "memory.usage" = "Вжито";
 "memory.app" = "Пам'ять програм";
 "memory.wired" = "Постійна";
-"memory.compressed" = "Стистена";
+"memory.compressed" = "Стистемна";
 
 // MARK: Network
 "network" = "Мережа";
